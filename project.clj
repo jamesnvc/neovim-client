@@ -1,4 +1,4 @@
-(defproject neovim-client "0.1.0"
+(defproject jamesnvc/neovim-client "0.1.0"
   :description "Client library for the Neovim RPC API"
   :url "https://github.com/clojure-vim/neovim-client"
   :license {:name "Eclipse Public License"
